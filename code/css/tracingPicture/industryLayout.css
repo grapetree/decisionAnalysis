@@ -205,3 +205,6 @@
 .active .up-span {
   background: url("../../img/bright.png") no-repeat center;
 }
+.layui-form {
+    height: 26px;
+}
